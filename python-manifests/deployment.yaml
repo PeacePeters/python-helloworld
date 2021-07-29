@@ -21,7 +21,7 @@ spec:
         app: python-helloworld
     spec:
       containers:
-      - image: agilestrategist/python-helloworld:v1.0.0
+      - image: agilestrategist/python-helloworld:latest
         imagePullPolicy: IfNotPresent
         name: python-helloworld
         resources:

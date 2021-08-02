@@ -1,4 +1,4 @@
 # python-helloworld
 
-This is a basi Flask application.
+This is a basic Flask application.
 
